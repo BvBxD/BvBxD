@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BvBxD
-- 🌱 I’m currently learning C++, js, node, mysql
+- 🌱 I’m currently learning js, node js, Laravel & php 
 - 📫 How to reach me BvB#3991 at discord
 
 <!---
