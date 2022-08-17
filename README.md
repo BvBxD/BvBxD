@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BvBxD
 - 🌱 I’m currently learning js, node js, Laravel & php 
-- 📫 How to reach me BvB#3991 at discord
+- 📫 Reach me BvB#3991 at Discord
 
 <!---
 BvBxD/BvBxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
